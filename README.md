@@ -1,2 +1,3 @@
 # PascalVOC2007-Fastai
-This is a repository containing source codes on class segmentation in Pascal VOC 2007
+This is a repository containing a notebook on object segmentation in Pascal VOC 2007.
+
